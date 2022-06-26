@@ -1,0 +1,11 @@
+This project takes a .txt file named "CS210_Project_Three_Input_File" and count the items on it.
+Best examples of this is counting the amount of x item someone has ordered on thier grocery list.
+
+The main improvement I could see making to this code is making it run on all platforms, after some r&d it seems it may not play well on all systems.
+
+This whole project was pretty simple and I didn't run into any big issues while coding this. 
+It didn't really add anything to my tool kit, just reinforce.
+
+I think the best skill I trained with this project that is helpful in the future is being able to code in c++.
+
+I made this code maintainable, readable, and adaptable, by follwing best pratices while also folling industry standards.
